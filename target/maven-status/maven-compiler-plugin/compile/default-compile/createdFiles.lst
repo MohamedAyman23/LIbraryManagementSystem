@@ -1,0 +1,7 @@
+newclass\librarymanagementsystem\LibrarySystem.class
+newclass\librarymanagementsystem\Book.class
+newclass\librarymanagementsystem\UserAccount.class
+newclass\librarymanagementsystem\UserRole.class
+newclass\librarymanagementsystem\Library.class
+newclass\librarymanagementsystem\Main.class
+newclass\librarymanagementsystem\Member.class
